@@ -1,0 +1,248 @@
+.mytask-text h2 {
+  color: #292929;
+  font-family: "Signika Negative";
+  font-size: 2rem;
+}
+
+.mytask-text p {
+  color: #974fd0;
+  font-family: "Signika Negative";
+}
+
+.mytask-text {
+  gap: 42rem;
+  margin-top: 1px;
+  height: 5rem;
+}
+
+.mytask-body {
+  background-color: #faf9fb;
+  height: 220%;
+  width: 100%;
+  position: absolute;
+}
+
+.card-1 {
+  margin-left: 8rem;
+  width: 69rem;
+  background-color: #faf9fb;
+  margin-top: 2rem;
+}
+
+.edit-btn {
+  background-color: #974fd0;
+  color: #faf9fb;
+  border: none;
+  margin-left: 50rem;
+  height: 2.5rem;
+  width: 13rem;
+  font-family: "Signika Negative";
+  margin-right: 2rem;
+  margin-top: 0.8rem;
+  position: relative;
+}
+
+.delete-btn {
+  background-color: none;
+  border: solid #974fd0;
+  border-width: 0.4px;
+  color: #974fd0;
+  height: 3rem;
+  width: 15rem;
+  font-family: "Signika Negative";
+  font-weight: bold;
+  margin-right: 2rem;
+  margin-top: 0.5rem;
+  position: relative;
+}
+
+.urgent {
+  border: #faf9fb;
+  margin-top: 1rem;
+}
+
+.edit-img {
+  width: 1.3rem;
+  height: 1.3rem;
+  margin-top: 1.4rem;
+  margin-left: 55.1rem;
+  position: absolute;
+  z-index: 1;
+}
+
+.delete-img {
+  width: 1.3rem;
+  height: 1.3rem;
+  margin-top: 1.4rem;
+  margin-left: 61.7rem;
+  position: absolute;
+  z-index: 1;
+}
+
+.card-title {
+  font-family: "Signika Negative";
+  font-size: 2rem;
+}
+
+.card-txt {
+  font-family: "Signika Negative";
+  color: #737171;
+}
+.edit-img-2 {
+  width: 1.2rem;
+  height: 1.2rem;
+  margin-top: 1.5rem;
+  margin-left: 55.5rem;
+  position: absolute;
+  z-index: 1;
+}
+
+.delete-img-2 {
+  width: 1.4rem;
+  height: 1.2rem;
+  margin-top: 1.4rem;
+  margin-left: 61.2rem;
+  position: absolute;
+  z-index: 1;
+}
+
+.edit-btn-2 {
+  background-color: #974fd0;
+  color: #faf9fb;
+  border: none;
+  margin-left: 48.9rem;
+  height: 2.7rem;
+  width: 14rem;
+  font-family: "Signika Negative";
+  margin-right: 1rem;
+  margin-top: 0.8rem;
+  position: relative;
+  padding-right: 1rem;
+}
+
+.delete-btn-2 {
+  background-color: none;
+  border: solid #974fd0;
+  border-width: 0.4px;
+  color: #974fd0;
+  height: 3rem;
+  width: 18rem;
+  font-family: "Signika Negative";
+  font-weight: bold;
+  margin-right: 2rem;
+  margin-top: 0.5rem;
+  position: relative;
+}
+
+.card-txt-bottom {
+  color: #974fd0;
+  text-align: center;
+  font-family: "Signika Negative";
+  font-size: 1.4rem;
+  text-decoration: underline;
+  margin-top: 3rem;
+}
+
+.add-new-task {
+  text-decoration: none;
+  color: #974fd0;
+  font-size: 18px;
+ 
+}
+
+@media (max-width: 725px) {
+  .card-1 {
+    margin-left: 1rem;
+    width: 22rem;
+    margin-top: 2rem;
+  }
+
+  .edit-img-2 {
+    width: 1.1rem;
+    height: 1.1rem;
+    margin-top: 1.9rem;
+    margin-left: 12.2rem;
+    position: absolute;
+    z-index: 1;
+  }
+
+  .delete-img-2 {
+    width: 1.3rem;
+    height: 1.3rem;
+    margin-top: 1.8rem;
+    margin-left: 16.6rem;
+    position: absolute;
+    z-index: 1;
+  }
+
+  .edit-btn-2 {
+    margin-left: 6rem;
+    height: 2.7rem;
+    width: 14rem;
+    margin-right: 1rem;
+    margin-top: 1.2rem;
+    position: relative;
+    padding-right: 1rem;
+  }
+
+  .delete-btn-2 {
+    height: 3rem;
+    width: 18rem;
+    margin-right: 2rem;
+    margin-top: 1rem;
+    position: relative;
+  }
+
+  .edit-btn {
+    margin-left: 7.7rem;
+    width: 13rem;
+    height: 2.5rem;
+    margin-right: 1rem;
+    margin-top: 0.8rem;
+    position: relative;
+  }
+
+  .delete-btn {
+    background-color: none;
+    border: solid #974fd0;
+    border-width: 0.4px;
+    color: #974fd0;
+    height: 3rem;
+    width: 9rem;
+    font-family: "Signika Negative";
+    font-weight: bold;
+    margin-right: 2rem;
+    margin-top: 0.5rem;
+    position: relative;
+  }
+
+  .edit-img {
+    width: 1rem;
+    height: 1rem;
+    margin-top: 1.5rem;
+    margin-left: 12.7rem;
+    position: absolute;
+    z-index: 1;
+  }
+
+  .delete-img {
+    width: 1.3rem;
+    height: 1.3rem;
+    margin-top: 1.4rem;
+    margin-left: 16.7rem;
+    position: absolute;
+    z-index: 1;
+  }
+
+  .mytask-body {
+    background-color: #faf9fb;
+    height: 220%;
+    width: 100%;
+    position: absolute;
+  }
+
+  .mytask-text p {
+    color: #974fd0;
+    font-family: "Signika Negative";
+  }
+}

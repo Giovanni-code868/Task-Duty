@@ -1,0 +1,153 @@
+.backarrowimg{
+    height: 4rem;
+    width: 4rem;
+    margin-left: -16px;
+}
+
+.newtask-heading p{
+    font-size: 2rem;
+    font-family: "Signika Negative";
+    margin-top: 0.5rem;
+
+}
+
+.newtask-heading{
+    padding-top: 2rem;
+    margin-left: 5.7rem;
+    
+    
+}
+
+.thirdpage-main{
+    background-color:#faf9fb; 
+}
+
+.textbox-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .textbox {
+    position: relative;
+    margin: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    width: 71rem;
+    height: 7rem;
+  }
+  
+  .textbox-heading {
+    position: absolute;
+    top: -20px;
+    left: 10px;
+    background-color:#faf9fb; 
+    padding: 0 10px;
+  }
+  
+  .textbox-input {
+    width: 101%;
+    background-color:#faf9fb; 
+    margin-top: -1rem;
+    height: 100px;
+    border:none;
+    outline: none;
+  }
+
+  .textbox-input::placeholder {
+    background-color: transparent;
+    color: #CCCCCC;
+    ;
+  }
+
+  .textbox h3{
+     color: #CCCCCC;
+    font-family: "Signika Negative";
+
+  }
+
+  .description-box {
+    position: relative;
+    margin: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    width: 71rem;
+    height: 15rem;
+  }
+
+  .description-box h3{
+      color: #CCCCCC;
+     font-family: "Signika Negative";
+ 
+   }
+
+   .form-select{
+    height: 6rem;
+    width: 69rem;
+    margin-top: -0.8rem;
+    border: none;
+    background-color: transparent;
+   }
+
+  .done-btn{
+    border: none;
+    border-radius: 6px;
+    height: 3rem;
+    background-color: #974FD0;
+    color:  #FAF9FB;
+    margin-left: 6.5rem;
+    font-family: "Signika Negative";
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .card-txt-bottom {
+    color: #974fd0;
+    text-align: center;
+    font-family: "Signika Negative";
+    font-size: 1.4rem;
+    text-decoration: underline;
+    margin-top: 3rem;
+  }
+
+@media (max-width: 725px) {
+  .backarrowimg{
+    height: 4rem;
+    width: 4rem;
+    margin-left: -105px;
+}
+
+.newtask-heading p{
+    margin-top: -3.5rem;
+    margin-left: -3rem;
+
+}
+.done-btn{
+  margin-left: 1.3rem;
+  width: 22rem;
+  font-family: "Signika Negative";
+  font-size: 2rem;
+  text-align: center;
+}
+
+.form-select{
+  height: 6rem;
+  width: 19.1rem;
+
+ }
+}
+
+
+
+    
+    
+
+
+    
+
+   
+
+ 
+  
+  
