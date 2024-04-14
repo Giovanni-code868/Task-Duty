@@ -153,30 +153,14 @@
 @media (max-width: 725px) {
   .card-1 {
     margin-left: 1rem;
-    width: 22rem;
+    width: 20.2rem;
     margin-top: 2rem;
   }
 
-  .edit-img-2 {
-    width: 1.1rem;
-    height: 1.1rem;
-    margin-top: 1.9rem;
-    margin-left: 12.2rem;
-    position: absolute;
-    z-index: 1;
-  }
-
-  .delete-img-2 {
-    width: 1.3rem;
-    height: 1.3rem;
-    margin-top: 1.8rem;
-    margin-left: 16.6rem;
-    position: absolute;
-    z-index: 1;
-  }
+ 
 
   .edit-btn-2 {
-    margin-left: 6rem;
+    margin-left: 4rem;
     height: 2.7rem;
     width: 14rem;
     margin-right: 1rem;
@@ -194,7 +178,7 @@
   }
 
   .edit-btn {
-    margin-left: 7.7rem;
+    margin-left: 5.8rem;
     width: 13rem;
     height: 2.5rem;
     margin-right: 1rem;
@@ -216,23 +200,7 @@
     position: relative;
   }
 
-  .edit-img {
-    width: 1rem;
-    height: 1rem;
-    margin-top: 1.5rem;
-    margin-left: 12.7rem;
-    position: absolute;
-    z-index: 1;
-  }
 
-  .delete-img {
-    width: 1.3rem;
-    height: 1.3rem;
-    margin-top: 1.4rem;
-    margin-left: 16.7rem;
-    position: absolute;
-    z-index: 1;
-  }
 
   .mytask-body {
     background-color: #faf9fb;

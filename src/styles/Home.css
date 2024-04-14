@@ -49,11 +49,12 @@ img {
   }
 
   .first-heading {
-    font-size: 38px;
+    font-size: 35px;
     margin-top: 9rem;
+  
   }
   .second-heading {
-    font-size: 40px;
+    font-size: 30px;
     margin-top: -2.1rem;
   }
 }
