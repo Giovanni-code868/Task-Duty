@@ -18,9 +18,7 @@ const MyTasks = () => {
         <Card className=" card-1">
           <div className="d-flex">
             <Card.Header className="text-danger  urgent">Urgent</Card.Header>
-            <img src={editicon} alt="" className="edit-img" />
             <Button variant=" edit-btn">Edit</Button>
-            <img src={deleteicon} alt="" className="delete-img" />
             <Button variant=" delete-btn">Delete</Button>
           </div>
           <hr />
@@ -43,11 +41,11 @@ const MyTasks = () => {
             <Card.Header className="text-success important-card ">
               Important
             </Card.Header>
-            <img src={editicon} alt="" className="edit-img-2 " />
+
             <Button variant=" edit-btn-2" className="">
               Edit
             </Button>
-            <img src={deleteicon} alt="" className="delete-img-2" />
+         
             <Button variant=" delete-btn-2">Delete</Button>
           </div>
           <hr />
@@ -66,9 +64,9 @@ const MyTasks = () => {
         <Card className=" card-1">
           <div className="d-flex">
             <Card.Header className="text-danger  urgent">Urgent</Card.Header>
-            <img src={editicon} alt="" className="edit-img" />
+          
             <Button variant=" edit-btn">Edit</Button>
-            <img src={deleteicon} alt="" className="delete-img" />
+         
             <Button variant=" delete-btn">Delete</Button>
           </div>
           <hr />
@@ -91,11 +89,11 @@ const MyTasks = () => {
             <Card.Header className="text-success important-card ">
               Important
             </Card.Header>
-            <img src={editicon} alt="" className="edit-img-2 " />
+        
             <Button variant=" edit-btn-2" className="">
               Edit
             </Button>
-            <img src={deleteicon} alt="" className="delete-img-2" />
+          
             <Button variant=" delete-btn-2">Delete</Button>
           </div>
           <hr />
