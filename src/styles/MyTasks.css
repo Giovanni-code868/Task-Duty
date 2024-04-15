@@ -88,23 +88,6 @@
   font-family: "Signika Negative";
   color: #737171;
 }
-.edit-img-2 {
-  width: 1.2rem;
-  height: 1.2rem;
-  margin-top: 1.5rem;
-  margin-left: 55.5rem;
-  position: absolute;
-  z-index: 1;
-}
-
-.delete-img-2 {
-  width: 1.4rem;
-  height: 1.2rem;
-  margin-top: 1.4rem;
-  margin-left: 61.2rem;
-  position: absolute;
-  z-index: 1;
-}
 
 .edit-btn-2 {
   background-color: #974fd0;
